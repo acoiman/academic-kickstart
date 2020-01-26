@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:acoiman@ieee.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:acoiman@riseup.net'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: 'https://twitter.com/abrahamcoiman'
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Abraham Coiman is an agronomist specialized in geomatics. His research interests include Geographical Information System (GIS), Remote Sensing and Geographical Data Science. With a bachelor’s degree in Agronomy and a postgraduate diploma in Geomatics, he has more than ten years of experience in using Geospatial Information Technology, GIS and Remote Sensing tools.
+<p style='text-align: justify;'>Abraham Coiman is an agronomist specialized in geomatics. His research interests include Geographical Information System (GIS), Remote Sensing and Geographical Data Science. With a bachelor’s degree in Agronomy and a postgraduate diploma in Geomatics, he has more than ten years of experience in using Geospatial Information Technology, GIS and Remote Sensing tools.</p>
 
-His professional and scientific experience includes spatial analysis using ArcGIS and QGIS, Remote Sensing image analysis using ENVI, eCognition and Google Earth Engine, creating highly accurate maps, building web mapping applications using ArcGIS online and open source software, and geospatial analysis using data science tools.
+<p style='text-align: justify;'>His professional and scientific experience includes spatial analysis using ArcGIS and QGIS, Remote Sensing image analysis using ENVI, eCognition and Google Earth Engine, creating highly accurate maps, building web mapping applications using ArcGIS online and open source software, and geospatial analysis using data science tools.</p>
