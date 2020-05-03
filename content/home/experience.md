@@ -67,6 +67,6 @@ date_format = "Jan 2006"
   location = "Maracay - Venezuela"
   date_start = "2011-01-15"
   date_end = "2014-05-23"
-  description = """Use remote sensing, spatial analysis, and Geographic Information Systems (GIS) to build environmental and mining geodatabases."""
+  description = """Using remote sensing, spatial analysis, and Geographic Information Systems (GIS) to build environmental and mining geodatabases."""
 
 +++
