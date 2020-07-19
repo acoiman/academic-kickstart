@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Retrieving, Analyzing and Visualizing georeferenced data"
-subtitle: "Earthquakes near Fiji since 1964"
+subtitle: "Using Folium Map and Standard Python Libraries"
 summary: ""
 authors: []
 tags: []
@@ -43,13 +43,15 @@ This post contains three [jupyter notebooks](https://jupyter.org/) that will sho
 
 3. <a href="https://nbviewer.jupyter.org/github/acoiman/mapping_earthquakes/blob/master/map_earthquakes.ipynb" target="_blank">map_earthquakes</a> takes the database data and creates a web map using the Folium package.
 
+> Click [here](https://towardsdatascience.com/retrieve-analyze-and-visualize-georeferenced-data-aec1af28445b) to read the full post on [Towards Data Science](https://towardsdatascience.com/).
+
 
 Repository link: <a href="https://github.com/acoiman/mapping_earthquakes" target="_blank">`https://github.com/acoiman/mapping_earthquakes`</a>
 
 ***Final result:***
 
 <div class='embed-responsive' style='padding-bottom:75%'>
-    <object data='../../maps/earthquake_fiji/map/' width='100%' height='100%' position: relative display: block height: 0></object>
+    <object data='../../maps/earthquake_fiji/' width='100%' height='100%' position: relative display: block height: 0></object>
 </div>
 
 

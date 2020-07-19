@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:acoiman@riseup.net'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aecoimanm@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: 'https://twitter.com/abrahamcoiman'
@@ -51,9 +51,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: 'https://www.linkedin.com/in/abraham-coiman/'
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=PKxPn8YAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Abraham_Coiman2/research
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

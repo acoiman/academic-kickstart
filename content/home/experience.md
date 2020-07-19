@@ -26,11 +26,20 @@ date_format = "Jan 2006"
 #  date_end = ""
 #  description = """
 #  Responsibilities include:
-  
+
 #  * Analysing
 #  * Modelling
 #  * Deploying
 #  """
+
+[[experience]]
+  title = "GIS and Remote Sensing Technician"
+  company = "Geomatik Consulting"
+  company_url = "http://www.geomatikconsultores.com.ve/"
+  location = "Maracay - Venezuela"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """Performing geospatial and remote sensing image analysis through geographical data science."""
 
 [[experience]]
   title = "GIS Web Developer"
@@ -38,9 +47,8 @@ date_format = "Jan 2006"
   company_url = "http://www.geomatikconsultores.com.ve/"
   location = "Maracay - Venezuela"
   date_start = "2015-11-30"
-  date_end = ""
+  date_end = "2018-12-31"
   description = """Developing a Web-based GIS for Mining activities in Venezuela."""
-
 
 [[experience]]
   title = "GIS Technician"

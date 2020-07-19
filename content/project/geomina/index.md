@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mining Geoportal"
-summary: "Central repository for all mining activities data in Venezuela"
+summary: "Central repository for mining data in Venezuela"
 authors: []
 tags: []
 categories: []
