@@ -3,7 +3,7 @@
 
 title: "Retrieving, Analyzing and Visualizing georeferenced data"
 subtitle: "Using Folium Map and Standard Python Libraries"
-summary: ""
+summary: "This post will show you how to map earthquakes from a database using standard Python libraries."
 authors: []
 tags: []
 categories: []

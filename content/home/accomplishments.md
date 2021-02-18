@@ -31,10 +31,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Introduction to Data Science in Python"
+  title = "Applied Data Science with Python Specialization"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/L6FG2GDNK62U"
-  date_start = "2019-12-01"
+  date_start = "2021-01-15"
   date_end = ""
   description = ""
 

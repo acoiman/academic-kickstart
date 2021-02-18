@@ -30,7 +30,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Data Science"
-  description = "50%"
+  description = "60%"
   
 [[feature]]
   icon = "chart-line"
@@ -42,7 +42,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = "75%"
 
 [[feature]]
   icon = "map"

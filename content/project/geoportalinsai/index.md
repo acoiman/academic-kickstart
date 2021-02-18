@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Geoportal INSAI"
-summary: "Leveraging the national plant protection and animal health system in Venezuela"
+summary: "Leveraging the national plant protection and animal health system in Venezuela."
 authors: []
 tags: []
 categories: []

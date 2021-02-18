@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Maracay - Venezuela"
   date_start = "2019-01-01"
   date_end = ""
-  description = """Performing geospatial and remote sensing image analysis through geographical data science."""
+  description = """Using Geographical Data Science techniques and methods to retrieve, analyze, and visualize geospatial data for environmental management.Classification and analysis of Remote Sensing images using Machine Learning techniques."""
 
 [[experience]]
   title = "GIS Web Developer"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Maracay - Venezuela"
   date_start = "2015-11-30"
   date_end = "2018-12-31"
-  description = """Developing a Web-based GIS for Mining activities in Venezuela."""
+  description = """Full-stack GIS Web development, this included developing client and server-side applications using PostGIS, GeoServer, and OpenLayer, as well as managing, visualizing, and sharing geospatial data."""
 
 [[experience]]
   title = "GIS Technician"
@@ -57,16 +57,7 @@ date_format = "Jan 2006"
   location = "Maracay - Venezuela"
   date_start = "2014-05-26"
   date_end = "2018-07-01"
-  description = """Development of web mapping applications for land use planning and environment management."""
-
-[[experience]]
-  title = "GIS Web Developer"
-  company = "INSAI (National Institute for Integral Agricultural Health)"
-  company_url = "http://www.insai.gob.ve/"
-  location = "Maracay - Venezuela"
-  date_start = "2014-06-01"
-  date_end = "2015-02-28"
-  description = """Building a geoportal to leverage the national plant protection and animal health system."""
+  description = """Developing Web mapping applications using ArcGIS online. Cleaning and processing geospatial data using ArcGIS for Desktop and QGIS."""
 
 [[experience]]
   title = "GIS and Remote Sensing Technician"
@@ -75,6 +66,6 @@ date_format = "Jan 2006"
   location = "Maracay - Venezuela"
   date_start = "2011-01-15"
   date_end = "2014-05-23"
-  description = """Using remote sensing, spatial analysis, and Geographic Information Systems (GIS) to build environmental and mining geodatabases."""
+  description = """Using Remote Sensing and GIS to extract geospatial data for environmental and mining management."""
 
 +++

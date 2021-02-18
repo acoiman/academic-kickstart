@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PGDip. Thesis in Geomatics"
+title: Tesis de Especialización en Geomática
 authors: [Abraham Coiman]
 date: 2020-01-24T16:31:45-04:30
 doi: "10.13140/RG.2.2.12838.88648"
@@ -19,16 +19,15 @@ publication_types: ["7"]
 publication: "Evolución de la Ribera del Lago de Valencia y del Uso y Cobertura de la Tierra en el Municipio Zamora del Estado Aragua, en el Período 1986-2014"
 publication_short: ""
 
-abstract: "<p style='text-align: justify;'>Valencia lake basin is located in the central region of Venezuela between Aragua and Carabobo states. During the last four decades it has experienced a significant urban sprawl. This situation has created important land use and land cover (LULC) changes, especially in areas near the shore of Valencia lake. It is important to highlight the case of Zamora municipality where this phenomenon has affected lands with high potential for agricultural use. Considering these circumstances, this research has as main goal evaluating the costal dynamics of Valencia lake and LULC changes in Zamora municipality between 1980 and 2014. To characterize LULC changes, the object-oriented classification of multispectral medium-spatial resolution satellite images was employed. SISDELAV (Sistema de Información de Suelos de la Depresión del Lago de Valencia) data and image classification outputs were used to pinpoint coastal evolution of Valencia lake. A spatial analysis was carried out using SISDELAV data, classified images and GIS, in order to identify areas in conflict with potential for agricultural use, coastal evolution of the lake, and LULC changes. Finally, the resulting geospatial information was integrated into a WebGIS application.</p>" 
-
+abstract: "<p style='text-align: justify;'>La cuenca del lago de Valencia, situada en la región central de Venezuela entre los estados Aragua y Carabobo, ha experimentado procesos no planificados de crecimiento y creación de centros urbanos durante las últimas cuatro décadas. Estas circunstancias han originado cambios importantes en el uso y cobertura de la tierra en las áreas aledañas a la ribera de dicho lago. Destaca el caso del municipio Zamora del estado Aragua en donde este fenómeno ha afectado tierras con aptitud alta de uso agrícola. Ante tal situación se plantea evaluar la dinámica ribereña del lago de Valencia y los cambios uso y cobertura de la tierra en este municipio, en el período 1986-2014. A través de la clasificación orientada al objeto de imágenes multiespectrales de sensores satélites se caracterizaron los cambios de uso y de cobertura de la tierra. Los datos obtenidos de esta clasificación y el Sistema de Información de Suelos de la Depresión del Lago de Valencia (SISDELAV) permitieron determinar la evolución de la ribera del lago. Con la aplicación de los Sistemas de Información Geográfica (SIG), SISDELAV y las imágenes clasificadas, se procedió a identificar las áreas de conflicto entre el potencial agrícola, la evolución de la línea de ribera lacustre, y los cambios de uso y cobertura de la tierra. Finalmente, se integró la información geoespacial generada en una aplicación SIG en la web.</p>" 
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Evaluación de los cambios del uso y cobertura de la tierra, municipio Zamora, estado Aragua Venezuela."
 
 tags: []
 categories: []
-featured: false
+featured: Evolución de la Ribera del Lago de Valencia y del Uso y Cobertura de la Tierra en el Municipio Zamora del Estado Aragua, en el Período 1986-2014false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
